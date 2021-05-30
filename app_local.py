@@ -40,7 +40,7 @@ class BotHandler:
 
 greet_bot = BotHandler('1238610737:AAGiXsnB_h-JvYKKZKMkaUsM3nTkHQyyjwA')  
 greetings = ('hello', 'hi', 'greetings', 'sup')
-commands = ('/posts', 'news')   
+commands = ('/posts', 'news','/start test123')   
 now = datetime.datetime.now()
 urla = 'https://demo.offgame.gg/iamgroot/posts'
 headers = {
