@@ -1,6 +1,6 @@
 
 # A very simple Flask Hello World app for you to get started with...
-
+# https://t.me/@offgame_test_bot?start=test123
 from flask import Flask, flash, redirect, render_template, request, session, abort,url_for,logging #For work with HTTP and templates
 import requests
 import datetime
